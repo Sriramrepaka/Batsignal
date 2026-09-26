@@ -6,3 +6,5 @@ This project involves making a helicoid like a camera lens, using a rim I can mo
 All the 3D modes for the Batsignal are in "3D models" folder and the basic code for an ESP32 bluetooth relay board with LED pin as 23 and RELAY pin as 16 is present in code folder, please change accordingly. I am using a 220V ESP32 Relay board.
 
 When ever the connected phone receives a call the light is turned on and stays on till the call disconnects or the user disconnects it. If a user triggers a voice assistant then also the light turns on for 3 minutes or when a new voice assistant is triggered again which ever is earlier.
+
+Users can also modify the code after forking or pulling the code them simply push the changes and wait a few minutes then click of the website link select COM port and simply flash the code onto your board and you will be good to go. No need of ESP-IDF
