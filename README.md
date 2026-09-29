@@ -9,6 +9,6 @@ When ever the connected phone receives a call the light is turned on and stays o
 
 Users can also modify the code after forking or pulling the code them simply push the changes and wait a few minutes then click of the website link select COM port and simply flash the code onto your board and you will be good to go. No need of ESP-IDF
 
-The 3D parts were printed using FDM and SLS for tiny parts
+The 3D parts were printed using FDM and SLS for tiny parts like the emblem and hinges. 
 
 Assembly might be a bit tricky, I will try to add a detailed description later.
