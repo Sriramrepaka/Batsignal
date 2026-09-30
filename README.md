@@ -12,3 +12,5 @@ Users can also modify the code after forking or pulling the code them simply pus
 The 3D parts were printed using FDM and SLS for tiny parts like the emblem and hinges. 
 
 Assembly might be a bit tricky, I will try to add a detailed description later.
+
+I tested the first prototype and it works like fine, just need few changes with aperture adjustments, will update the images soon
